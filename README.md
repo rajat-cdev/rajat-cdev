@@ -1,4 +1,4 @@
-![logo](https://github.com/rajat-cdev/rajat-cdev/blob/main/15327.jpg)
+![logo](https://github.com/rajat-cdev/rajat-cdev/blob/main/bannerimage.png)
 <h1 align="center">Hi 👋, I'm Rajat Pareta</h1>
 <h3 align="center">A frontend developer from India</h3>
 
