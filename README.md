@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
 
-- 👨‍💻 All of my projects are available at [https://linktree.com/](https://linktree.com/)
+- 👨‍💻 All of my projects are available at [https://rajat-pareta.netlify.app/](https://rajat-pareta.netlify.app/)
 
 - 💬 Ask me about **React**
 
@@ -20,6 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-cdev&show_icons=true&locale=en&layout=compact" alt="rajat-cdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat-cdev&show_icons=true&locale=en" alt="rajat-cdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-cdev&" alt="rajat-cdev" /></p>
-![image](https://user-images.githubusercontent.com/115896806/201469705-0d2a4a6d-7267-4f36-8303-1f8883967a4b.png)
