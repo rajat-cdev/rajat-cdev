@@ -4,6 +4,9 @@
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player align="right" src="https://assets10.lottiefiles.com/packages/lf20_tno6cg2w.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
+
 - 👨‍💻 All of my projects are available at [https://rajat-pareta.netlify.app/](https://rajat-pareta.netlify.app/)
 
 - 💬 Ask me about **React**
