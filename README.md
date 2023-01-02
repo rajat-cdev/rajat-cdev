@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Pareta</h1>
 <h3 align="center">A frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://assets10.lottiefiles.com/packages/lf20_tno6cg2w.json">
+<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://rajat-pareta.netlify.app/](https://rajat-pareta.netlify.app/)
